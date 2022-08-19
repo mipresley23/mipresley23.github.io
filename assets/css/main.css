@@ -2564,6 +2564,14 @@ input, select, textarea {
 				width: 100%;
 			}
 
+			#header-email-image{
+				height: 20px;
+				width: 20px;
+				position: relative;
+				top:2px;
+			}
+
+
 /* List */
 
 	ol {
