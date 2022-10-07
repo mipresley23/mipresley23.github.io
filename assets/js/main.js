@@ -247,4 +247,11 @@
 		$banner
 			._parallax();
 
+			let resumeLink = document.getElementById('resume-link')
+
+			resumeLink.addEventListener('click', () => {
+				window.alert('Thanks for downloading my resume!')
+			})
+
+
 })(jQuery);
